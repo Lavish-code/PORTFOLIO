@@ -1,0 +1,53 @@
+[
+  {
+    "name": "Quiz app",
+    "desc": "Online Quiz Application is a user-friendly web-based platform for taking quizzes. Users can select quizzes, answer questions, and view their scores easily.",
+    "image": "quiz",
+    "category": "web-app",
+    "links": {
+      "view": "https://quizz-app-lavish.vercel.app/",
+      "code": "https://github.com/Lavish-code/Quizz_App"
+    }
+  },
+  {
+    "name": "Weather Dekho",
+    "desc": "A ReactJS weather app offering real-time weather information, including temperature, conditions, and forecasts, with a seamless user interface.",
+    "image": "weather",
+    "category": "web-app",
+    "links": {
+      "view": "https://weather-dekho-lavish.vercel.app/",
+      "code": "https://github.com/Lavish-code/Weather-Dekho"
+    }
+  },
+  {
+    "name": "Blog Horizon",
+    "desc": "Built a MERN stack blog website with responsive interfaces, state management, user authentication, CRUD operations, real-time updates and enhanced performance.",
+    "image": "blog",
+    "category": "web-app",
+    "links": {
+      "view": "https://github.com/Lavish-code/Blog_Horizon_Frontend",
+      "code": "https://github.com/Lavish-code/Blog_Horizon_backend"      
+    }
+  },
+  {
+    "name": "CURE MATE (Doctor Appointment Booking)",
+    "desc": "Developed a full-stack Doctor Appointment Booking system with dual frontends (user and admin), secure authentication with access and refresh tokens, multiple JSON web tokens, REST API integration, and a scalable architecture, enhancing booking efficiency and user/admin experience.",
+    "image": "curemate",
+    "category": "web-app",
+    "links": {
+      "view": "https://github.com/Lavish-code/CureMate_FrontEnd",
+      "code": "https://github.com/Lavish-code/CureMate_backend"
+    }
+  },
+    {
+      "name": "Stack OverFlow Clone",
+      "desc": "The project is a MERN Stack web application that provides a platform for users to ask, resolve, and share queries. Users can sign up, log in, post questions, and answer others' queries",
+      "image": "sample",
+      "category": "web-app",
+      "links": {
+        "view": "https://stack-overflow-aman.vercel.app",
+        "code": "https://github.com/Lavish-code/StackOverFlow-Clone"      
+      }
+    }
+  
+]
