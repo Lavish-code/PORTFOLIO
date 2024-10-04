@@ -25,7 +25,7 @@
     "image": "blog",
     "category": "web-app",
     "links": {
-      "view": "https://github.com/Lavish-code/Blog_Horizon_Frontend",
+      "view": "https://blog-horizon-frontend.vercel.app/",
       "code": "https://github.com/Lavish-code/Blog_Horizon_Backend"      
     }
   },
