@@ -31,7 +31,7 @@
   },
   {
     "name": "CURE MATE (Doctor Appointment Booking)",
-    "desc": "Developed a full-stack Doctor Appointment Booking system featuring dual frontends (user and admin), secure authentication with access and refresh tokens, multiple JSON Web Tokens, REST API integration, and a scalable architecture, improving booking efficiency and user/admin experience",
+    "desc": "Developed a full-stack Doctor Appointment Booking system with dual frontends, secure authentication, REST API integration, and scalable architecture",
     "image": "curemate",
     "category": "web-app",
     "links": {
