@@ -25,8 +25,8 @@
     "image": "blog",
     "category": "web-app",
     "links": {
-      "view": "https://blog-horizon-frontend.vercel.app/",
-      "code": "https://github.com/Lavish-code/Blog_Horizon_backend"      
+      "view": "https://github.com/Lavish-code/Blog_Horizon_Frontend",
+      "code": "https://github.com/Lavish-code/Blog_Horizon_Backend"      
     }
   },
   {
@@ -35,8 +35,8 @@
     "image": "curemate",
     "category": "web-app",
     "links": {
-      "view": "https://github.com/Lavish-code/CureMate_FrontEnd",
-      "code": "https://github.com/Lavish-code/CureMate_backend"
+      "view": "https://github.com/Lavish-code/Cure_Mate",
+      "code": "https://github.com/Lavish-code/Cure_Mate"
     }
   },
     {
@@ -45,7 +45,7 @@
       "image": "sample",
       "category": "web-app",
       "links": {
-        "view": "https://github.com/Lavish-code/StackOverFlow-Clone",
+        "view": "https://stack-overflow-aman.vercel.app",
         "code": "https://github.com/Lavish-code/StackOverFlow-Clone"      
       }
     }
